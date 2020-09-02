@@ -1,6 +1,7 @@
 Gitの練習をしていきます。
 基本的なワークフローを学びます。
 変更
+test
 ．git add
 ．git commit
 ．git rm
